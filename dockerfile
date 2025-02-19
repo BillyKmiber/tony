@@ -10,4 +10,6 @@ COPY python.py .
 
 EXPOSE 5000
 
+
+
 CMD ["python", "python.py"]
